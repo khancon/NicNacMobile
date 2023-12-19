@@ -80,6 +80,12 @@ function App(): React.JSX.Element {
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
             screen and then come back to see your edits.
           </Section>
+          <Section title="Step Two">
+            See changes made! Wow.
+          </Section>
+          <Section title="Step Three">
+            More changes ahahah
+          </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
           </Section>
